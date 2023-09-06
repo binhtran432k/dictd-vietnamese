@@ -1,3 +1,3 @@
-# Vietnamese dictd dictionary
+# Vietnamese dictd dictionaries
 
 This include Vietnamese dictionaries for dictd.
